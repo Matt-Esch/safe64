@@ -1,0 +1,29 @@
+{
+  "name": "safe64",
+  "version": "0.1.0",
+  "description": "URI safe base64 encoding",
+  "keywords": [],
+  "author": "Matt-Esch <matt@mattesch.info>",
+  "repository": "git://github.com/Matt-Esch/safe64.git",
+  "main": "index",
+  "homepage": "https://github.com/Matt-Esch/safe64",
+  "contributors": [
+    {
+      "name": "Matt Esch"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Matt-Esch/safe64/issues",
+    "email": "matt@mattesch.info"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Matt-Esch/safe64/raw/master/LICENSE"
+    }
+  ]
+}
